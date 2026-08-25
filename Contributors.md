@@ -39,6 +39,7 @@
 - [Damion Voshall](https://github.com/DamoFD)
 - [Antyss77](https://github.com/Antyss77)
 - [leohchoi](https://github.com/leohchoi)
+- [Ian Gitau] (https://github.com/ixng)
 - [OmriOn] (https://github.com/OmriOn)
 - water
 - [Aakash Rajbhar](https://github.com/Aakash-Rajbhar)
